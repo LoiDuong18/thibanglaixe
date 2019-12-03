@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp">
+        <TextView
+            android:id="@+id/contest_welcome_txtTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/colorPrimary1"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:text="Bộ đề thi gồm 20 câu, Trong đó có:"/>
+
+        <TextView
+            android:id="@+id/contest_welcome_txtLine1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:layout_below="@+id/contest_welcome_txtTitle"
+            android:text="- 9 câu về khái niệm và quy tắc giao thông."/>
+
+        <TextView
+            android:id="@+id/contest_welcome_txtLine2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/contest_welcome_txtLine1"
+            android:text="- 1 câu về văn hóa và đạo đức người lái xe."
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/contest_welcome_txtLine3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/contest_welcome_txtLine2"
+            android:text="- 5 câu về hệ thống biển báo."
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/contest_welcome_txtLine4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/contest_welcome_txtLine3"
+            android:text="- 5 câu về giải các sa hình."
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/contest_welcome_txtLine5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/contest_welcome_txtLine4"
+            android:layout_marginTop="20dp"
+            android:text="Bạn cần trả lời đúng 18 câu trong vòng 15 phút để vượt qua bài thi."
+            android:textColor="@color/black" />
+        <Button
+            android:id="@+id/contest_welcome_btnStart"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginRight="100dp"
+            android:background="@color/colorPrimary3"
+            android:text="BẮT ĐẦU LÀM BÀI"
+            android:textStyle="bold"
+            android:textSize="10dp"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+</LinearLayout>

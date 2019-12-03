@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\bd4344d6107e7032f1a093c92b9316239c801f68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_3bb2f6e1af90e186fac1b644875dbe1691c19e98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\dc33b36b45805fb4764caabf2571777f6768bc2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_6084091178de6792cc67c9e913d065a9ff63d548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\0a5edfe5fbb346336544bc73918e72ba738b6f79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_c79f88c38c115c152a6acef709f0b261a89f964e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\515efd603cf947635fafbe0a470dfee54cc5800a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_c3270806794cfc17b3aceebb5dc6f1615efb78e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\f3d1b6c8e992ecc6bc85c316e8bba7463d566ada\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_193dc9699dc000870021d491b2608faaadf21388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\c1747768307ca30f64e030229b1846fb14b7339b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_bf28c14355990b740226983bc3cdbd60d2766876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\9303d743bce2b1ae3c54b8a408a14c052b8f8d6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_ef8ba82b4a321ab5de2468bd38415780bb46214c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_98d7212dbb0194d4bf5cdae24a93808169344732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\b2dda0453bd5eb8e11ade564b57f2b01c1143444\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_d04ac318e7e906d2d483366b7836c5e312fca43f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.0\dd84903d2e1af25a6081ef9038ad863cb14ca3a0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_850fa260314a409ff7a360e2373d01bb7b7dbd79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\a27b74fb9d88630fd8a6dd361456dc13a529e69b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_43544081f86bbf1e11df896334a7bfc5b63bb5b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\d00287c98f9506f3740ec6f63ec27391dc8d4714\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_c4da0f5e9c9991e42dd2df64e5fa311f2a293896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\42c6bc76b2e81158bfdc3cf604687182a9682247\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_4129621d547f9088a56b5b81a476675aa75b411b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\375faa899dd2fe64464136764374a0ec355c0084\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_48e6d6fab6351f2b94f35997c1dcaee9ee4ca159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\d122d94d550ecdeb5d0b1dd767f620e769ddf747\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\TAI LIEU NAM 3\CNTT-DHKH-NAM4-HK1\thibanglaixe\thibanglaixe\thibanglaixe\app\build\intermediates\pre-dexed\debug\classes_817eb9bbc39e964b103557ee7ffbe43e6500a98f.jar" />
+    </item>
+
+</items>
